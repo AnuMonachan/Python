@@ -1,0 +1,14 @@
+{
+    "emp_details": [
+        {
+            "emp name": "person1",
+            "email": "person123@gmail.com",
+            "job profile": "Software Developer"
+        },
+        {
+            "emp name": "person2",
+            "email": "person223@gmail.com",
+            "job profile": "Project lead"
+        }
+    ]
+}
